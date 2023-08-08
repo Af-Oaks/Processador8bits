@@ -1,0 +1,194 @@
+{C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/portaAnd2.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/portaAnd2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlog219y7y".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/portaAnd2.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/PC.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/PC.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlogybkknq".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/PC.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/portaAnd3.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/portaAnd3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlogfr37be".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/portaAnd3.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Concatena5Zeros.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Concatena5Zeros.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlogzgr9ne".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Concatena5Zeros.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/ExtendeSinal.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/ExtendeSinal.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlogsfqanc".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/ExtendeSinal.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Mux2.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Mux2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlogvietdn".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Mux2.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/memo_instr.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/memo_instr.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlog36d3i1".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/memo_instr.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Mux2fixa1.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Mux2fixa1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlogjsq6i9".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Mux2fixa1.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Mux3.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Mux3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlogrxiay5".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Mux3.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Concatena7Zeros.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Concatena7Zeros.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlogjnz18a".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Concatena7Zeros.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/SomaFixa.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/SomaFixa.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlog8wyr6t".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/SomaFixa.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/MuxReg.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/MuxReg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlogdrt1ij".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/MuxReg.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Controle2.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Controle2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlogbt2i36".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Controle2.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/DataMEM.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/DataMEM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlogwhnt7h".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/DataMEM.v(2): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/ULA.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/ULA.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlogsvyae1".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/ULA.v(2): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Soma2num.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Soma2num.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlogkarb51".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Soma2num.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Controle.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Controle.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlog9xn89w".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Controle.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/nRisc.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/nRisc.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlogfy8wyn".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: ** while parsing file included at C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/nRisc.v(1)
+** at PC.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Soma1bitSai3.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Soma1bitSai3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlogg7tnc6".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Soma1bitSai3.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Soma1bit.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Soma1bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlog2zxjdt".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Soma1bit.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Concatena1Zeros.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Concatena1Zeros.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlogrmkm45".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/Concatena1Zeros.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/portaOr2.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/portaOr2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlogmfkn7c".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/portaOr2.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/BancoREG.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/BancoREG.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlogsjetg8".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/BancoREG.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}} {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/portaOr3.v} {0 {vlog -work work -stats=none {C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/portaOr3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vlog-9) Problem while writing token file "C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/work/_temp/vlogh92ch3".
+O sistema não pode encontrar o caminho especificado. (GetLastError() = 3)
+** Error: C:/Users/filho/OneDrive/Área de Trabalho/AOC/AOC/Aula10/portaOr3.v(1): Verilog Compiler exiting
+
+} {7.0 8.0} {}}

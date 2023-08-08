@@ -1,0 +1,31 @@
+module Mux3(entrada1,entrada2,entrada3,OPcontrole,Saida);
+
+
+input wire[7:0]entrada1,entrada2,entrada3;
+input wire[1:0]OPcontrole;
+output reg[7:0]Saida;
+
+
+initial begin
+Saida = 8'b00000000;
+end
+
+always @(entrada1,entrada2,entrada3,OPcontrole) begin
+
+
+   case(OPcontrole)
+
+
+   2'b00: Saida <= entrada1;
+   2'b01: Saida <= entrada2;
+   2'b10: Saida <= entrada3;
+
+
+   endcase
+
+
+   end
+
+
+endmodule
+

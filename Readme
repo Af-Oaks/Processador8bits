@@ -1,0 +1,25 @@
+Trabalho final da Materia de Laboratorio de Arquitetura de Computadores 1:
+
+Alunos: Adjailson Freire De Sá Filho
+	Augusto Coelho Fagundes
+
+Descrição: 
+	O Objetivo desse trabalho foi criar um processador 8bits de arquitetura MIPS que executasse um simples algoritmo, no nosso caso calcular o ultimo elemento da sequencia de fibonnaci antes que estoure o limite dos 8 bits nesse caso 255, sendo o ultimo elemento 233!
+
+Conclusão:
+	Para o alvo de fazer a sequencia de Fibonnaci 1,1,2,3.. o processador consegue parar no elemento de 233, assim satisfazendo a necessidade do Trabalho.
+
+Problemas:
+	O alvo era calcular qualquer sequencia similar a fibonnaci, onde o proximo elemento é a soma dos dois anteriores, entretanto isso nao ocorre. há possiveis problemas de sincronização e caminhos de dados não identificados.
+
+TODO:
+	Verificar Sincronização dos componentes do processador.
+	Verificar Caminhos de dados.
+	Verificar logica que calcula o limite alcançável da sequencia(numero menor que 255)
+
+
+Comando para executar o processador pelo Iverilog Icarus no terminal Linux:
+
+iverilog testenrisc.v nRisc.v BancoReg.v Concatena1Zeros.v Concatena5Zeros.v Concatena7Zeros.v Controle2.v DataMEM.v ExtendeSinal.v memo_instr.v Mux2.v Mux2fixa1.v Mux3.v MuxReg.v PC.v portaAnd2.v portaAnd3.v portaOr2.v portaOr3.v Soma1bit.v Soma1bitSai3.v Soma2num.v SomaFixa.v ULA.v
+
+

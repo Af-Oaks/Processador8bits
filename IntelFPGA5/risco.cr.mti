@@ -1,0 +1,173 @@
+{C:/Users/augus/Desktop/AOC/Nova pasta/testenrisc.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/testenrisc.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testenrisc
+
+Top level modules:
+	testenrisc
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/portaAnd3.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/portaAnd3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module portaAnd3
+
+Top level modules:
+	portaAnd3
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/Concatena5Zeros.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/Concatena5Zeros.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Concatena1Zero
+
+Top level modules:
+	Concatena1Zero
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/Mux2fixa1.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/Mux2fixa1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Mux2fixa1
+
+Top level modules:
+	Mux2fixa1
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/Concatena7Zeros.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/Concatena7Zeros.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Concatena7Zeros
+
+Top level modules:
+	Concatena7Zeros
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/Controle.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/Controle.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Controle
+
+Top level modules:
+	Controle
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/Controle2.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/Controle2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Controle2
+
+Top level modules:
+	Controle2
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/Soma1bit.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/Soma1bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Soma1bit
+
+Top level modules:
+	Soma1bit
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/Soma1bitSai3.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/Soma1bitSai3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Soma1bitSai3
+
+Top level modules:
+	Soma1bitSai3
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/BancoReg.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/BancoReg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module BancoREG
+
+Top level modules:
+	BancoREG
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/portaOr2.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/portaOr2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module portaOr2
+
+Top level modules:
+	portaOr2
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/DataMEM.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/DataMEM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module DataMEM
+
+Top level modules:
+	DataMEM
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/ULA.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/ULA.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ULA
+
+Top level modules:
+	ULA
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/portaOr3.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/portaOr3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module portaOr3
+
+Top level modules:
+	portaOr3
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/PC.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/PC.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/ExtendeSinal.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/ExtendeSinal.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ExtendeSinal
+
+Top level modules:
+	ExtendeSinal
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/Mux2.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/Mux2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Mux2
+
+Top level modules:
+	Mux2
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/Mux3.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/Mux3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Mux3
+
+Top level modules:
+	Mux3
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/nRisc.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/nRisc.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PC
+-- Compiling module Mux2
+-- Compiling module Soma1bit
+-- Compiling module memo_instr
+-- Compiling module nRisc
+
+Top level modules:
+	nRisc
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/SomaFixa.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/SomaFixa.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SomaFixa
+
+Top level modules:
+	SomaFixa
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/MuxReg.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/MuxReg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MuxReg
+
+Top level modules:
+	MuxReg
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/Concatena1Zeros.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/Concatena1Zeros.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Concatena1Zeros
+
+Top level modules:
+	Concatena1Zeros
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/Soma2num.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/Soma2num.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Soma2num
+
+Top level modules:
+	Soma2num
+
+} {} {}} {C:/Users/augus/Desktop/AOC/Nova pasta/portaAnd2.v} {1 {vlog -work work -stats=none {C:/Users/augus/Desktop/AOC/Nova pasta/portaAnd2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module portaAnd2
+
+Top level modules:
+	portaAnd2
+
+} {} {}}

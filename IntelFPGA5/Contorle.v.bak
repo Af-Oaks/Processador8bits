@@ -1,0 +1,61 @@
+module
+Controle(OPcode,BitVerificao,clock,EscrevMem,LerMem,Jump,Halt,UlaOp,FonteUla,EscrevReg,Beqz);
+input wire [2:0]OPcode;
+input wire [1:0]BitVerificao;
+input wire clock;
+output reg EscrevMem,LerMem,Jump,Halt,EscrevReg,Beqz;
+output reg [1:0] FonteUla,UlaOp;
+reg [3:0]type2;
+reg [11:0] InstrucaoMem [11:0]; // 12 instruções guardadas em palava sde 12bits;
+initial begin
+//exemplo de acessar as flags de controle no registrador
+//load EscrevMem,LerMem,Jump,Halt,UlaOp,Beqz,EscrevReg,FonteUla;
+//instrucoes[0000] = 12'b 0 1 0 0 xx 0 1 xx
+InstrucaoMem[4'b0000] = 12'b0100XX01XX;//Load OK
+InstrucaoMem[4'b0001] = 12'b0000010110;//SetLessThan OK
+InstrucaoMem[4'b0010] = 12'b1000000101;//Add OK
+InstrucaoMem[4'b0011] = 12'b0000000100;//AddI OK
+InstrucaoMem[4'b0100] = 12'b0010XX00XX;//Jump OK
+InstrucaoMem[4'b0101] = 12'b1000XX00XX;//Store OK
+InstrucaoMem[4'b1100] = 12'b0000100100;//Setz OK
+InstrucaoMem[4'b0110] = 12'b0000001100;//Beqz OK
+InstrucaoMem[4'b0111] = 12'b0000XX00XX;//Halt OK
+InstrucaoMem[4'b1000] = 12'b0000XX01XX;//InveSin OK
+InstrucaoMem[4'b1001] = 12'b0000XX01XX;//InvTudo OK
+InstrucaoMem[4'b1010] = 12'b0010XX00XX;//JumpReg OK
+end
+// bloco always q assina os valores da sequencia de bits para cada sinal de controle
+always @(posedge clock) begin
+if(OPcode == 3'b100 && BitVerificao == 2'b01)begin//acessar o Beqz
+EscrevMem <=InstrucaoMem[4'b1100][9];
+LerMem <=InstrucaoMem[4'b1100][8];
+Jump <=InstrucaoMem[4'b1100][7];
+Halt <=InstrucaoMem[4'b1100][6];
+UlaOp <=InstrucaoMem[4'b1100][5:4];
+Beqz <=InstrucaoMem[4'b1100][3];
+EscrevReg <=InstrucaoMem[4'b1100][2];
+FonteUla <=InstrucaoMem[4'b1100][1:0];
+end
+else if( OPcode == 3'b111)begin //acessar as instrucoes que tem os 2 bits de verificação
+type2= OPcode +BitVerificao;
+EscrevMem <=InstrucaoMem[type2][9];
+LerMem <=InstrucaoMem[type2][8];
+Jump <=InstrucaoMem[type2][7];
+Halt <=InstrucaoMem[type2][6];
+UlaOp <=InstrucaoMem[type2][5:4];
+Beqz <=InstrucaoMem[type2][3];
+EscrevReg <=InstrucaoMem[type2][2];
+FonteUla <=InstrucaoMem[type2][1:0];
+end
+else begin //qualquer outra instrução
+EscrevMem <=InstrucaoMem[OPcode][9];
+LerMem <=InstrucaoMem[OPcode][8];
+Jump <=InstrucaoMem[OPcode][7];
+Halt <=InstrucaoMem[OPcode][6];
+UlaOp <=InstrucaoMem[OPcode][5:4];
+Beqz <=InstrucaoMem[OPcode][3];
+EscrevReg <=InstrucaoMem[OPcode][2];
+FonteUla <=InstrucaoMem[OPcode][1:0];
+end
+end
+endmodule

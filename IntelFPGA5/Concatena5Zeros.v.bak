@@ -1,0 +1,12 @@
+module Concatena5Zeros(Entrada,Saida);
+
+
+input wire [2:0] Entrada;
+output wire [7:0] Saida;
+
+
+assign Saida = { 5'b00000, Entrada };
+
+
+endmodule
+
